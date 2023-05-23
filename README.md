@@ -1,13 +1,13 @@
 # CursoSAPWorkflow
 
-O SAP Workflow continua sendo uma ferramenta relevante no mundo do SAP S/4HANA. Com ele, podemos rapidamente ativar e customizar fluxos para serem usados em apps como o Fiori MyInbox. Por isso, acaba sendo um conhecimento técnico quase que obrigatório para um consultor SAP Fiori.
+SAP Workflow remains a relevant tool in the world of SAP S/4HANA. With it, we can quickly activate and customize flows to be used in apps like Fiori MyInbox. Therefore, it ends up being an almost mandatory technical knowledge for a SAP Fiori consultant.
 
-Só que o SAP Workflow pode muito bem ser ativado/alterado por um consultor funcional também. Muito do que fizemos no curso usa funcionalidade standard que não requer conhecimento de ABAP.
+But SAP Workflow can very well be activated/changed by a functional consultant as well. Much of what we've done in the course uses standard functionality that doesn't require ABAP knowledge.
 
-Em meados de 2017, quando dava aulas em cursos livres, montei este curso de SAP Workflow. Alunos que já tinham tentado aprender antes conseguiram entender muito melhor e, depois do curso, começaram de fato a trabalhar com SAP Workflow também. Outros alunos, que nunca tinham tido contato, também se saíram muito bem em suas carreiras depois do curso. Anos depois, é gratificante ver isso porque quer dizer que o esforço para preparar o curso deu resultado.
+In mid-2017, when I was teaching free courses, I created this SAP Workflow course. Students who had tried to learn before were able to understand much better and, after the course, actually started working with SAP Workflow as well. Other students, who had never had contact, also did very well in their careers after the course. Years later, it is gratifying to see this because it means that the effort to prepare the course paid off.
 
-Só que o curso estava aqui, parado, na gaveta. E dado que estamos vivendo uma fase complicada, com muita gente ficando desalocada, muitos estão buscando cursos para se aperfeiçoar e se desenvolver. Então, eu decidi disponibilizar o curso inteiro e gratuito aqui.
+But the course was here, stopped, in the drawer. And given that we are going through a complicated phase, with many people being displaced, many are looking for courses to improve and develop themselves. So I decided to make the entire course available for free here.
 
-Comece a ler o material da pasta Material do Aluno. Eu enviava este material uma semana antes do curso, para a pessoa se preparar. Depois, vá para o Material do Curso. O curso é 100% prático e você vai precisar de um ambiente SAP para fazer os exercícios.
+Start reading material from the Student Materials folder. I sent this material a week before the course, for the person to prepare. Then go to the Course Materials. The course is 100% practical and you will need a SAP environment to do the exercises.
 
-Se tiver dúvidas e eu conseguir te ajudar, me manda um e-mail. Fiquem firmes, isso tudo vai passar.
+If you have questions and I can help you, send me an email. Stand firm, this will all pass.
